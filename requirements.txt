@@ -1,0 +1,11 @@
+# Core model + transformer tools
+transformers
+sentence-transformers
+accelerate
+bitsandbytes
+
+# Data handling
+datasets
+pandas
+tqdm
+scipy
