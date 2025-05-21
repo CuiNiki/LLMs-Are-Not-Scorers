@@ -1,7 +1,8 @@
 # LLMs Are Not Scorers: Rethinking MT Evaluation with Generation-Based Methods
 
-This repository accompanies our EMNLP 2025 submission:  
-**"LLMs Are Not Scorers: Rethinking MT Evaluation with Generation-Based Methods."**
+This repository contains the source code, data, and experiment results for our EMNLP 2025 paper.
+
+## Paper Abstract
 
 Recent work has applied large language models (LLMs) to machine translation quality estimation (MTQE) by prompting models to directly assign quality scores. However, we find that these direct scoring approaches suffer from low segment-level correlation with human judgments—especially when using decoder-only LLMs, which are not trained for regression tasks.
 
@@ -9,7 +10,7 @@ To address this, we propose a generation-based evaluation paradigm that leverage
 
 We conduct large-scale evaluations across 8 LLMs and 9 language pairs, and demonstrate that our method outperforms both direct LLM scoring baselines and non-LLM reference-free MTQE metrics from the MTME benchmark.
 
-## Repository Structure and Organization
+## Repository Structure
 
 ### experiment_1: Reproducing and Extending EMNLP 2024 Baseline
 

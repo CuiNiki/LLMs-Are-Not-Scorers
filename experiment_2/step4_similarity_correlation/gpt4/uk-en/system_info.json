@@ -1,0 +1,25 @@
+{
+  "system_names": [
+    "Online-Y",
+    "PROMT",
+    "Online-A",
+    "ALMAnaCH-Inria",
+    "Online-B",
+    "ARC-NKUA",
+    "HuaweiTSC",
+    "Online-G",
+    "Lan-Bridge"
+  ],
+  "system_counts": {
+    "Online-Y": 2018,
+    "PROMT": 2018,
+    "Online-A": 2018,
+    "ALMAnaCH-Inria": 2018,
+    "Online-B": 2018,
+    "ARC-NKUA": 2018,
+    "HuaweiTSC": 2018,
+    "Online-G": 2018,
+    "Lan-Bridge": 2018
+  },
+  "total_lines": 18162
+}

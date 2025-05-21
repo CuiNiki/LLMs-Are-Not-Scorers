@@ -1,0 +1,30 @@
+File: /content/qwen14b/si-en.jsonl (Language pair: si-en)
+Spearman: 0.2262 (p=0.0000)
+Pearson: 0.2384 (p=0.0000)
+Kendall: 0.1531 (p=0.0000)
+
+
+File: /content/qwen14b/ro-en.jsonl (Language pair: ro-en)
+Spearman: 0.6643 (p=0.0000)
+Pearson: 0.7611 (p=0.0000)
+Kendall: 0.4851 (p=0.0000)
+
+
+File: /content/qwen14b/ru-en.jsonl (Language pair: ru-en)
+Spearman: 0.5332 (p=0.0000)
+Pearson: 0.5624 (p=0.0000)
+Kendall: 0.3753 (p=0.0000)
+
+
+File: /content/qwen14b/et-en.jsonl (Language pair: et-en)
+Spearman: 0.4276 (p=0.0000)
+Pearson: 0.4288 (p=0.0000)
+Kendall: 0.2945 (p=0.0000)
+
+
+File: /content/qwen14b/ne-en.jsonl (Language pair: ne-en)
+Spearman: 0.4514 (p=0.0000)
+Pearson: 0.4525 (p=0.0000)
+Kendall: 0.3123 (p=0.0000)
+
+

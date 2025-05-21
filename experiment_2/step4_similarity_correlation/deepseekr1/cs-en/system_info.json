@@ -1,0 +1,31 @@
+{
+  "system_names": [
+    "CUNI-DocTransformer",
+    "JDExploreAcademy",
+    "Online-W",
+    "Online-Y",
+    "Lan-Bridge",
+    "Online-B",
+    "refC",
+    "Online-G",
+    "SHOPLINE-PL",
+    "Online-A",
+    "CUNI-Transformer",
+    "ALMAnaCH-Inria"
+  ],
+  "system_counts": {
+    "CUNI-DocTransformer": 1448,
+    "JDExploreAcademy": 1448,
+    "Online-W": 1448,
+    "Online-Y": 1448,
+    "Lan-Bridge": 1448,
+    "Online-B": 1448,
+    "refC": 1448,
+    "Online-G": 1448,
+    "SHOPLINE-PL": 1448,
+    "Online-A": 1448,
+    "CUNI-Transformer": 1448,
+    "ALMAnaCH-Inria": 1448
+  },
+  "total_lines": 17376
+}

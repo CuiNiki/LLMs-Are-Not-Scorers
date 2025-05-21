@@ -1,0 +1,27 @@
+{
+  "system_names": [
+    "Online-Y",
+    "PROMT",
+    "Online-W",
+    "refB",
+    "Online-A",
+    "JDExploreAcademy",
+    "Lan-Bridge",
+    "LT22",
+    "Online-G",
+    "Online-B"
+  ],
+  "system_counts": {
+    "Online-Y": 1984,
+    "PROMT": 1984,
+    "Online-W": 1984,
+    "refB": 1984,
+    "Online-A": 1984,
+    "JDExploreAcademy": 1984,
+    "Lan-Bridge": 1984,
+    "LT22": 1984,
+    "Online-G": 1984,
+    "Online-B": 1984
+  },
+  "total_lines": 19840
+}

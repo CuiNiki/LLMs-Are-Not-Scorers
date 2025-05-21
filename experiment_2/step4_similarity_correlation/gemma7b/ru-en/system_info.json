@@ -1,0 +1,27 @@
+{
+  "system_names": [
+    "ALMAnaCH-Inria",
+    "HuaweiTSC",
+    "Online-B",
+    "Online-G",
+    "Online-Y",
+    "Online-A",
+    "JDExploreAcademy",
+    "SRPOL",
+    "Lan-Bridge",
+    "Online-W"
+  ],
+  "system_counts": {
+    "ALMAnaCH-Inria": 2016,
+    "HuaweiTSC": 2016,
+    "Online-B": 2016,
+    "Online-G": 2016,
+    "Online-Y": 2016,
+    "Online-A": 2016,
+    "JDExploreAcademy": 2016,
+    "SRPOL": 2016,
+    "Lan-Bridge": 2016,
+    "Online-W": 2016
+  },
+  "total_lines": 20160
+}

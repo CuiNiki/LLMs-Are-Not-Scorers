@@ -1,0 +1,30 @@
+File: /content/llama8b/si-en.jsonl (Language pair: si-en)
+Spearman: 0.3929 (p=0.0000)
+Pearson: 0.3854 (p=0.0000)
+Kendall: 0.2673 (p=0.0000)
+
+
+File: /content/llama8b/ro-en.jsonl (Language pair: ro-en)
+Spearman: 0.6500 (p=0.0000)
+Pearson: 0.7417 (p=0.0000)
+Kendall: 0.4741 (p=0.0000)
+
+
+File: /content/llama8b/ru-en.jsonl (Language pair: ru-en)
+Spearman: 0.5194 (p=0.0000)
+Pearson: 0.5495 (p=0.0000)
+Kendall: 0.3656 (p=0.0000)
+
+
+File: /content/llama8b/et-en.jsonl (Language pair: et-en)
+Spearman: 0.3652 (p=0.0000)
+Pearson: 0.3849 (p=0.0000)
+Kendall: 0.2502 (p=0.0000)
+
+
+File: /content/llama8b/ne-en.jsonl (Language pair: ne-en)
+Spearman: 0.4443 (p=0.0000)
+Pearson: 0.4414 (p=0.0000)
+Kendall: 0.3070 (p=0.0000)
+
+

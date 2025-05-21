@@ -1,0 +1,30 @@
+File: /content/openchat3.5/si-en.jsonl (Language pair: si-en)
+Spearman: 0.1463 (p=0.0067)
+Pearson: 0.1785 (p=0.0009)
+Kendall: 0.0939 (p=0.0096)
+
+
+File: /content/openchat3.5/ro-en.jsonl (Language pair: ro-en)
+Spearman: 0.6621 (p=0.0000)
+Pearson: 0.7435 (p=0.0000)
+Kendall: 0.4878 (p=0.0000)
+
+
+File: /content/openchat3.5/ru-en.jsonl (Language pair: ru-en)
+Spearman: 0.5586 (p=0.0000)
+Pearson: 0.6021 (p=0.0000)
+Kendall: 0.3940 (p=0.0000)
+
+
+File: /content/openchat3.5/et-en.jsonl (Language pair: et-en)
+Spearman: 0.2341 (p=0.0000)
+Pearson: 0.2499 (p=0.0000)
+Kendall: 0.1590 (p=0.0000)
+
+
+File: /content/openchat3.5/ne-en.jsonl (Language pair: ne-en)
+Spearman: 0.4510 (p=0.0000)
+Pearson: 0.4535 (p=0.0000)
+Kendall: 0.3125 (p=0.0000)
+
+
