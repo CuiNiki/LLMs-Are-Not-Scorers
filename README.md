@@ -1,6 +1,6 @@
 # LLMs Are Not Scorers: Rethinking MT Evaluation with Generation-Based Methods
 
-This repository contains the source code, data, and experiment results for our EMNLP 2025 paper.
+This repository contains the source code, data, and experiment results for our paper.
 
 ## Paper Abstract
 
